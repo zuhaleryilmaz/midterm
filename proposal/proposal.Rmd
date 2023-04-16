@@ -1,0 +1,61 @@
+---
+title: "An Estimate On The Figures Of Live Animal And Animal Meat Imports Of World Countries"
+author: 
+  - Fatma Zühal Eryılmaz[^1]
+bibliography: ../bibliography/biblio.bib
+csl: ../csl/apa.csl
+header-includes:
+  - \usepackage{polyglossia}
+  - \setmainlanguage{english}
+  - \usepackage{booktabs}
+  - \usepackage{caption} 
+  - \captionsetup[table]{skip=10pt}
+output:
+  bookdown::pdf_document2:
+    fig_caption: yes
+    fig_height: 3
+    fig_width: 4
+    keep_tex: no
+    latex_engine: xelatex
+    number_sections: yes
+    toc: no
+geometry: margin=1in
+link-citations: yes
+urlcolor: blue
+fontsize: 12pt
+biblio-style: apalike
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+<!-- ======================================================================= -->
+<!-- ============================== FOOTNOTES ============================== -->
+<!-- ======================================================================= -->
+[^1]: 20080389, [Github Repo](https://github.com/zuhaleryilmaz/midterm)
+
+
+# Introduction
+
+Live animal imports are important because different species need to be brought in to ensure continued breeding. However, live animal imports also come with many risks. When health screenings for live animals imported from different countries are not sufficiently conducted, the spread of animal diseases is inevitable. This situation can threaten a country's own animal population and cause problems throughout the food supply chain.
+
+Animal meat imports are a more widespread practice than live animal imports. Many countries import animal meat to meet their own meat consumption needs. The most important reason for animal meat imports is that countries cannot meet their own meat consumption needs. Furthermore, imported animals must meet high standards in terms of both health and quality. Therefore, countries that will engage in animal meat imports have some restrictions.
+
+While live animal and animal meat imports can provide many economic benefits, they can be risky for local producers. The import sector may reduce the business volume and increase the costs of local producers. However, it is believed that the quality and low prices of imports can contribute to the development of the animal meat sector in the country.
+
+Countries can promote local production while conducting controlled imports by collaborating with governments and local sectors. In this way, both local producers can be supported and the benefits of imports can be maximized. The importance of live animal and animal meat imports worldwide, as well as the risks they pose, should be managed consciously and systematically.
+
+According to the past years’ live animal and animal meat import figures, it is predicted that this trend will continue in 2023. Live animal and animal meat import is an important sector worldwide. It is believed that developing a strategy to increase their own production will help countries mitigate the environmental, health, and economic risks that this trade can pose.
+
+
+## Literature Review
+
+The literature emphasizes the need for transparency and collaboration among different countries and stakeholders in the trade of live animals and animal products. @narrod:2014 The exchange of information on animal health and disease outbreaks, as well as the adoption of common standards and best practices, can help reduce the risk of disease spread and facilitate trade. Meat trade flows among countries and world regions are determined largely by differences among countries in their resource base, their preferences for meat types and cuts, the extent and character of barriers to trade, and the industry structure (@galloway:2007).
+
+In addition, some experts also call for a shift towards more sustainable and ethical practices in the global food supply chain, including reducing the dependence on animal-based products and promoting local production and consumption. @nelson:2003 This approach can not only help reduce the risks associated with the trade of live animals and animal products but also contribute to the broader goals of environmental sustainability, animal welfare, and public health in Turkey (@aydogdu:2018)
+
+
+\newpage
+# References {#references}
+<div id="refs"></div>
+
